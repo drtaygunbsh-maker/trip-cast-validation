@@ -1,7 +1,7 @@
 # TRiP(cast) skorunun dış validasyonu – analiz kodu
 # External validation of the TRiP(cast) score – analysis code
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23455209.svg)](https://doi.org/10.5281/zenodo.23455209)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23456584.svg)](https://doi.org/10.5281/zenodo.23456584)
 
 Bu depo, aşağıdaki çalışmanın tüm istatistiksel analizlerini, tablolarını ve şekillerini yeniden üreten kodu içerir:
 
@@ -107,7 +107,7 @@ Betik, 24. sütundaki puanı bileşenlerden yeniden hesaplayarak kontrol eder ve
 
 ## Atıf / Citation
 
-Bu kodu kullanırsanız lütfen makaleye ve bu deponun Zenodo DOI'sine atıf yapın: [https://doi.org/10.5281/zenodo.23455209](https://doi.org/10.5281/zenodo.23455209)
+Bu kodu kullanırsanız lütfen makaleye ve bu deponun Zenodo DOI'sine atıf yapın: [https://doi.org/10.5281/zenodo.23456584](https://doi.org/10.5281/zenodo.23456584)
 
 ## İletişim / Contact
 
