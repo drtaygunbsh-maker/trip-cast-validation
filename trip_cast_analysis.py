@@ -275,7 +275,7 @@ def table4(d):
 def table5(d):
     rows = []
     for lab, m in [("Ana analiz", np.ones(len(d), bool)), ("Antikoagülan alanlar dışlandığında", (d.anticoag != 1).values),
-                   ("Ölçülmüş boy–kilo verisi olanlar", d.bmi.notna().values), ("Düşük riskli travma", (d.trauma <= 1).values),
+                   ("Düşük riskli travma", (d.trauma <= 1).values),
                    ("Diz altı immobilizasyon", (d.cast == 2).values), ("Yaş <55", (d.age < 55).values), ("Yaş ≥55", (d.age >= 55).values)]:
         x = d[m]; y = x.vte90.values; s = x.score.values.astype(float)
         if y.sum() < 2 or (y == 0).sum() < 2:

@@ -53,7 +53,7 @@ Betik ekrana özet sonuçları yazar ve `--out` klasörüne şunları kaydeder:
 | `tablo2_temel_ozellikler.csv` | Tablo 2 (ek olarak <35 yaş satırı) |
 | `tablo3_kesim_degerleri.csv` | Tablo 3 (yaş kuralları dahil) |
 | `tablo4_bilesenler.csv` | Tablo 4 |
-| `tablo5_duyarlilik_altgrup.csv` | Tablo 5 (ek olarak ölçülmüş boy–kilo satırı) |
+| `tablo5_duyarlilik_altgrup.csv` | Tablo 5 |
 | `tablo6_takip_kaybi_senaryo.csv` | Tablo 6 |
 | `kalibrasyon_gruplari.csv`, `karar_egrisi.csv` | Şekil 4 ve Şekil 5 verileri |
 | `ozet_sonuclar.json` | Metinde geçen tüm özet istatistikler (AUC, DeLong, kalibrasyon, McNemar, net fayda, devrilme noktası) |
@@ -74,10 +74,10 @@ Excel dosyası, aşağıdaki sırayla **25 sütun** içermelidir (sütun başlı
 | 3 | Yaş | yıl |
 | 4 | Travma riski | 1 = düşük, 2 = orta, 3 = yüksek |
 | 5 | İmmobilizasyon tipi | 1 = ayak/parmak, 2 = diz altı, 3 = uzun bacak |
-| 6 | Boy | metre (eksik olabilir) |
-| 7 | BKİ | kg/m² (eksik olabilir) |
-| 8 | Boy | cm (eksikse "-") |
-| 9 | Kilo | kg (eksikse "-") |
+| 6 | Boy | metre |
+| 7 | BKİ | kg/m² |
+| 8 | Boy | cm |
+| 9 | Kilo | kg |
 | 10 | BKİ kategorisi | 0 = <25, 1 = 25–35, 2 = ≥35 |
 | 11 | Ailede VTE öyküsü | 0/1 |
 | 12 | Kişisel VTE öyküsü | 0/1 |
