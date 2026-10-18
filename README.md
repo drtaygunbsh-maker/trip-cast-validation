@@ -1,9 +1,11 @@
 # TRiP(cast) skorunun dış validasyonu – analiz kodu
 # External validation of the TRiP(cast) score – analysis code
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23455209.svg)](https://doi.org/10.5281/zenodo.23455209)
+
 Bu depo, aşağıdaki çalışmanın tüm istatistiksel analizlerini, tablolarını ve şekillerini yeniden üreten kodu içerir:
 
-> Baykal T, Bulut M, Çetin E. *Alt ekstremite immobilizasyonunda tromboprofilaksi gerektirmeyen düşük venöz tromboembolizm riskli hastaların belirlenmesinde TRiP(cast) skorunun değeri: dış validasyon çalışması.* [Dergi, yıl, DOI eklenecek]
+> Baykal T, Bulut M, Çetin E. *Alt ekstremite immobilizasyonunda tromboprofilaksi gerektirmeyen düşük venöz tromboembolizm riskli hastaların belirlenmesinde TRiP(cast) skorunun değeri: dış validasyon çalışması.* [Dergi, yıl, makale DOI eklenecek]
 
 This repository contains the code that reproduces all statistical analyses, tables and figures of the study above.
 
@@ -105,7 +107,7 @@ Betik, 24. sütundaki puanı bileşenlerden yeniden hesaplayarak kontrol eder ve
 
 ## Atıf / Citation
 
-Bu kodu kullanırsanız lütfen makaleye ve bu deponun Zenodo DOI'sine atıf yapın: `[DOI eklenecek]`
+Bu kodu kullanırsanız lütfen makaleye ve bu deponun Zenodo DOI'sine atıf yapın: [https://doi.org/10.5281/zenodo.23455209](https://doi.org/10.5281/zenodo.23455209)
 
 ## İletişim / Contact
 
